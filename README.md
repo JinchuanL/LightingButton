@@ -1,5 +1,5 @@
 # About this repo
-This is a repo for a very cool lighting button.
+This is a repo for a very cool lighting animation button.
 
 When the user hovers over the button, it will start shining. Besides, it has a light circle animation around the button.
 
