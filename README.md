@@ -1,9 +1,9 @@
 # About this repo
 This is a repo for a very cool lighting animation button.
 
-When the user hovers over the button, it will start shining. Besides, it has a light circle animation around the button.
+When the user hovers over the button, it will start shining. Besides, it has a light circle animation around the button. Below is the demo👇
 
-![ezgif.com-video-to-gif](https://raw.githubusercontent.com/JinchuanL/PicGoStorage/master/ezgif.com-video-to-gif.gif)
+![2024-01-231.21.01-ezgif.com-video-to-gif-converter](https://raw.githubusercontent.com/JinchuanL/PicGoStorage/master/202401231325545.gif)
 
 <br>
 
